@@ -1,0 +1,1 @@
+For this repositary, we use the UCI Machine Learning Repositary dataset Electric Power Consumption. We graph the global active and reactive powers, voltage and the three sub metering data versus time for February 1 and 2 2007. We also looked at the histogram of the global active power.
